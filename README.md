@@ -22,3 +22,29 @@ This repo has been set up to post daily activities done in that regard. You can 
 |  03   |   "     |  [Mutual Information, Part b](https://www.kaggle.com/ryanholbrook/mutual-information)       | construct a ranking with a *feature utility metric*, a function measuring associations between a feature and the target |[The lesson](https://www.kaggle.com/ryanholbrook/mutual-information) | "|
 |  04   |   "     |  [Mutual Information, Part c](https://www.kaggle.com/ryanholbrook/mutual-information)       | construct a ranking with a *feature utility metric*, a function measuring associations between a feature and the target |[The lesson](https://www.kaggle.com/ryanholbrook/mutual-information) | "|
 |  05   |   "     |  [Exercise: Mutual Information:Part 1](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit)       | Rank the features of the *Ames Housing* dataset and choose your first set of features to start developing. |[The exercise](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit) | "|
+
+
+
+
+
+### Parallel reading:
+
+`Day 5: Numpy` 
+ - Useful ressources:
+    
+     1- [More than 15 jupyter notebooks to learn Numpy](https://www.kaggle.com/getting-started/115421)
+       
+     2- [Python Data Science Handbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=NUnISkrldkYn)
+     
+     3- [Introduction to Numpy](https://github.com/edyoda/data-science-complete-tutorial/blob/master/1.%20NumPy.ipynb)
+     
+     4- [Python-numpy-tutorial](https://github.com/cs231n/cs231n.github.io/blob/master/python-numpy-tutorial.md)
+     
+     5- [NumpyPandas-course](https://github.com/guiwitz/NumpyPandas_course)
+      
+
+
+
+
+
+
