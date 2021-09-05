@@ -1,4 +1,4 @@
-#                                                                ` 66DaysOfData `
+#                  <h1 align="center">                   ` 66DaysOfData `        </h1>
 
 Monitoring my progress on the [66 Days of Data](https://www.kennethjee.com/66daysofdata).
 
@@ -6,14 +6,12 @@ Monitoring my progress on the [66 Days of Data](https://www.kennethjee.com/66day
 After attending the [Kaggle 30 Days of ML](https://www.kaggle.com/thirty-days-of-ml), it is good to keep the pace in order to fix the knowldge acquired and to develop the right habits in order to be a good data analyst/scientist.
 
 
-This repo has been set up to post daily activities done in that regard. You can also join this learning opportunity and also [Join the Discord Server!](https://discord.com/invite/BRv6YGb). It is also meant to be a self-learning ressource for **Machine Learning for Beginners/Intermediates**.
+This repo has been set up to post daily activities done in that regard. You can also join this learning opportunity and also [Join the Discord Server!](https://discord.com/invite/BRv6YGb). It is also meant to be a self-learning ressource for **Machine Learning for Beginners/Intermediates**. 
+If you are a total beginner, I would refer you to [the section below 👇](#an-initiation-to-ml), the section on [33 Days of Parallel reading](#33-days-of-parallel-reading).
 
 
 
-##### Day 1: [What Is Feature Engineering](https://www.kaggle.com/ryanholbrook/what-is-feature-engineering) of [Feature Engineering](https://www.kaggle.com/learn/feature-engineering).
-
-
-
+### Main activity
 
 | Day |                            Topic                           |                   Lesson                    | Learning Objectives                                                                                                             |                   Linked to ressources                  |     Author     |
 |:-------------:|:----------------------------------------------------------:|:---------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------:|:--------------:|
@@ -25,11 +23,20 @@ This repo has been set up to post daily activities done in that regard. You can 
 
 
 
+`=====================================================================================================================`
 
 
-### Parallel reading:
+#             <h1 align="center"  class="anchor" id="33-days-of-parallel-reading" >  `33 Days of Parallel reading` </h1>
 
-`Day 5: Numpy` 
+##             <h2 align="center" class="anchor" id="an-initiation-to-ml">  [An initiation to ML ](https://www.kennethjee.com/66daysofdata)</h2>
+
+
+In this parallel reading, I provide some material for beginners into `Machine Learning/Artificial Intelligence`. Somehow, I am sharing my journey into the world of `Data Analysis` with a daily report of the concepts I learn and the activities I do. 
+
+I assume that the readers are familiar with the basics of the [Python](https://www.python.org/) programming language. If this is not the case, kidly refer to this extensive [AIMS Python's documentation](https://python.aims.ac.za/) which is a material I have prepared with some colleagues. 
+
+`Day 1: Numpy`. 
+
  - Useful ressources:
     
      1- [More than 15 jupyter notebooks to learn Numpy](https://www.kaggle.com/getting-started/115421)
