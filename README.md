@@ -28,7 +28,7 @@ If you are a total beginner, I would refer you to [the section below 👇](#an-i
 
 #             <h1 align="center"  class="anchor" id="33-days-of-parallel-reading" >  `33 Days of Parallel reading` </h1>
 
-##             <h2 align="center" class="anchor" id="an-initiation-to-ml">  [An initiation to ML ](https://www.kennethjee.com/66daysofdata)</h2>
+##             <h2 align="center" class="anchor" id="an-initiation-to-ml">  [An initiation to ML ](https://github.com/gabayae/-66DaysOfData-KennethJee/edit/main/README.md)</h2>
 
 
 In this parallel reading, I provide some material for beginners into `Machine Learning/Artificial Intelligence`. Somehow, I am sharing my journey into the world of `Data Analysis` with a daily report of the concepts I learn and the activities I do. 
@@ -37,18 +37,7 @@ I assume that the readers are familiar with the basics of the [Python](https://w
 
 `Day 1: Numpy`. 
 
- - Useful ressources:
-    
-     1- [More than 15 jupyter notebooks to learn Numpy](https://www.kaggle.com/getting-started/115421)
-       
-     2- [Python Data Science Handbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=NUnISkrldkYn)
-     
-     3- [Introduction to Numpy](https://github.com/edyoda/data-science-complete-tutorial/blob/master/1.%20NumPy.ipynb)
-     
-     4- [Python-numpy-tutorial](https://github.com/cs231n/cs231n.github.io/blob/master/python-numpy-tutorial.md)
-     
-     5- [NumpyPandas-course](https://github.com/guiwitz/NumpyPandas_course)
-      
+ 
 
 
 
