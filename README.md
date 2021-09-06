@@ -36,6 +36,8 @@ In this parallel reading, I provide some material for beginners into `Machine Le
 
 I assume that the readers are familiar with the basics of the [Python](https://www.python.org/) programming language. If this is not the case, kidly refer to this extensive [AIMS Python's documentation](https://python.aims.ac.za/) which is a material I have prepared with some colleagues. 
 
+
+
 [`Day 1: Numpy : A comprehensive guide: Part1`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb).
 
  
