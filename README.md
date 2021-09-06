@@ -20,6 +20,7 @@ If you are a total beginner, I would refer you to [the section below 👇](#an-i
 |  03   |   "     |  [Mutual Information, Part b](https://www.kaggle.com/ryanholbrook/mutual-information)       | construct a ranking with a *feature utility metric*, a function measuring associations between a feature and the target |[The lesson](https://www.kaggle.com/ryanholbrook/mutual-information) | "|
 |  04   |   "     |  [Mutual Information, Part c](https://www.kaggle.com/ryanholbrook/mutual-information)       | construct a ranking with a *feature utility metric*, a function measuring associations between a feature and the target |[The lesson](https://www.kaggle.com/ryanholbrook/mutual-information) | "|
 |  05   |   "     |  [Exercise: Mutual Information:Part 1](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit)       | Rank the features of the *Ames Housing* dataset and choose your first set of features to start developing. |[The exercise](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit) | "|
+|  06   |   "     |  [Exercise: Mutual Information:Part 2](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit)       | Rank the features of the *Ames Housing* dataset and choose your first set of features to start developing. |[The exercise](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit) | "|
 
 
 
@@ -35,7 +36,7 @@ In this parallel reading, I provide some material for beginners into `Machine Le
 
 I assume that the readers are familiar with the basics of the [Python](https://www.python.org/) programming language. If this is not the case, kidly refer to this extensive [AIMS Python's documentation](https://python.aims.ac.za/) which is a material I have prepared with some colleagues. 
 
-[`Day 1: Numpy : A comprehensive guide: Part1`](https://python.aims.ac.za/)
+[`Day 1: Numpy : A comprehensive guide: Part1`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb).
 
  
 
