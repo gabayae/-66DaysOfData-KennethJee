@@ -41,6 +41,8 @@ I assume that the readers are familiar with the basics of the [Python](https://w
 [`Day 1: Numpy : A comprehensive guide: Part1`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb).
 
  
+ [`Day 1: Numpy : A comprehensive guide: Part2`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day02_Numpy_Part2.ipynb
+). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb).
 
 
 
