@@ -21,6 +21,15 @@ If you are a total beginner, I would refer you to [the section below 👇](#an-i
 |  04   |   "     |  [Mutual Information, Part c](https://www.kaggle.com/ryanholbrook/mutual-information)       | construct a ranking with a *feature utility metric*, a function measuring associations between a feature and the target |[The lesson](https://www.kaggle.com/ryanholbrook/mutual-information) | "|
 |  05   |   "     |  [Exercise: Mutual Information:Part 1](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit)       | Rank the features of the *Ames Housing* dataset and choose your first set of features to start developing. |[The exercise](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit) | "|
 |  06   |   "     |  [Exercise: Mutual Information:Part 2](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit)       | Rank the features of the *Ames Housing* dataset and choose your first set of features to start developing. |[The exercise](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit) | "|
+|  07   |   "     |  [Exercise: Mutual Information:Part 3](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit)       | Rank the features of the *Ames Housing* dataset and choose your first set of features to start developing. |[The exercise](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit) | "|
+|  08   |   "     |  [Exercise: Mutual Information:Part 4](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit)       | Rank the features of the *Ames Housing* dataset and choose your first set of features to start developing. |[The exercise](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit) | "|
+|  09   |   TensorFlow and Keras - Quick StartGuide     |  [TensorFlow-and-Keras:Part0]()       | Learn about TensorFlow |[The lesson](https://en.wikipedia.org/wiki/TensorFlow) |  **Wikipedia**  |
+|  10   |   TensorFlow and Keras - Quick StartGuide     |  [TensorFlow-and-Keras:Part1]()       | Learn about Keras |[The lesson](https://en.wikipedia.org/wiki/Keras) |  **Wikipedia**  |
+ | 11   |   TensorFlow and Keras - Quick StartGuide     |  [TensorFlow-and-Keras:Part2]()       | Learn about Keras |[The lesson]() |  [YaeUG](https://github.com/gabayae)  |
+  | 12   |   TensorFlow and Keras - Quick StartGuide     |  [TensorFlow-and-Keras:Part3]()       | Learn about Keras |[The lesson]() |  " |
+
+
+
 
 
 
