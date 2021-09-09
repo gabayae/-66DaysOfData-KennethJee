@@ -26,7 +26,7 @@ If you are a total beginner, I would refer you to [the section below 👇](#an-i
 |  09   |   TensorFlow and Keras - Quick StartGuide     |  TensorFlow-and-Keras:PartA      | Learn about TensorFlow |[The lesson](https://en.wikipedia.org/wiki/TensorFlow) |  **Wikipedia**  |
 |  10   |   TensorFlow and Keras - Quick StartGuide     |  TensorFlow-and-Keras:PartB      | Learn about Keras |[The lesson](https://en.wikipedia.org/wiki/Keras) |  **Wikipedia**  |
  | 11   |   TensorFlow and Keras - Quick StartGuide     |  [TensorFlow-and-Keras:Part1]()       | Learn about Keras |[The lesson]() |  [YaeUG](https://github.com/gabayae)  |
-  | 12   |   TensorFlow and Keras - Quick StartGuide     |  [TensorFlow-and-Keras:Part2]()       | Learn about Keras |[The lesson]() |  " |
+  | 12   |   TensorFlow and Keras - Quick StartGuide    |  [TensorFlow-and-Keras:Part2]()       | Learn about Keras |[The lesson]() |  " |
 
 
 
@@ -56,6 +56,10 @@ I assume that the readers are familiar with the basics of the [Python](https://w
 
 [`Day 3: Numpy : A comprehensive guide: Part3`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day03_Numpy_Part3.ipynb
 ). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day03_Numpy_Part3.ipynb).
+
+
+[`Day 4: Numpy : A comprehensive guide: Part4`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day04_Numpy_Part4.ipynb
+). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day04_Numpy_Part4.ipynb).
 
 
 
