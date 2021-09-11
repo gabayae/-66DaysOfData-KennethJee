@@ -46,26 +46,33 @@ In this parallel reading, I provide some material for beginners into `Machine Le
 I assume that the readers are familiar with the basics of the [Python](https://www.python.org/) programming language. If this is not the case, kidly refer to this extensive [AIMS Python's documentation](https://python.aims.ac.za/) which is a material I have prepared with some colleagues. 
 
 
+## Numpy
 
-[`Day 1: Numpy : A comprehensive guide: Part1`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb).
+- [`Day 1: Numpy : A comprehensive guide: Part1`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb).
 
  
- [`Day 2: Numpy : A comprehensive guide: Part2`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day02_Numpy_Part2.ipynb
+ - [`Day 2: Numpy : A comprehensive guide: Part2`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day02_Numpy_Part2.ipynb
 ). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day02_Numpy_Part2.ipynb).
 
 
-[`Day 3: Numpy : A comprehensive guide: Part3`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day03_Numpy_Part3.ipynb
+- [`Day 3: Numpy : A comprehensive guide: Part3`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day03_Numpy_Part3.ipynb
 ). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day03_Numpy_Part3.ipynb).
 
 
-[`Day 4: Numpy : A comprehensive guide: Part4`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day04_Numpy_Part4.ipynb
+- [`Day 4: Numpy : A comprehensive guide: Part4`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day04_Numpy_Part4.ipynb
 ). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day04_Numpy_Part4.ipynb).
 
-[`Day 5: Numpy : A comprehensive guide: Final`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Numpy.ipynb
+- [`Day 5: Numpy : A comprehensive guide: Final`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Numpy.ipynb
 ). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Numpy.ipynb).
 
 
+## TensorFlow
+Google Colab: An easy way to learn and use TensorFlow. [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) is probably your best 
+friend when learning `TensorFlow`. No install necessary—run the [TensorFlow tutorials](https://www.tensorflow.org/tutorials) directly in the browser with [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb), a Google research project created to help disseminate machine learning education and research. It's a Jupyter notebook environment that requires no setup to use and runs entirely in the cloud. [Read the blog post](https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309). I could not find better introduction to the topic that the material available [here](https://www.tensorflow.org/guide). I called it `The TensorFlow Notebooks`. It assumes a familiarity with `Numpy` and really gives you the necessary to quick start with `TensorFlow` and `Keras`. I divided in a series of notebooks I deemed wuitable for a **learner/beginner**. If you are more comfortable, feel free to move faster.
 
+-  [`Day 6: TensorFlow: Part1`](https://github.com/gabayae/An-initiation-to-Deep-Learning/blob/main/TensorFlow_Part_1.ipynb). Run the notebook locally by <a href="https://storage.googleapis.com/tensorflow_docs/docs/site/en/guide/tensor.ipynb"><img src="https://www.tensorflow.org/images/download_logo_32px.png" />downloading it</a> or even better [`run it in Colab`](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/guide/tensor.ipynb#scrollTo=AL2hzxorJiWy).
+
+ 
 
 
 
