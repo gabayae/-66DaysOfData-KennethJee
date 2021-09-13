@@ -62,11 +62,13 @@ I assume that the readers are familiar with the basics of the [Python](https://w
 - [`Day 4: Numpy : A comprehensive guide: Part4`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day04_Numpy_Part4.ipynb
 ). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day04_Numpy_Part4.ipynb).
 
-- [`Day 5: Numpy : A comprehensive guide: Final`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Numpy.ipynb
-). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Numpy.ipynb).
+- [`Day 5: Numpy : A comprehensive guide: Final`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day05_Numpy_Part5_Final.ipynb
+). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day05_Numpy_Part5_Final.ipynb).
 
 
 
+## Matplotlib
+- [`Day 6: Matplotlib : A comprehensive guide: Part1`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day06_Matplotlib_Part1.ipynb). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day06_Matplotlib_Part1.ipynb).
 
  
 
