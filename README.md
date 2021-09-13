@@ -25,8 +25,13 @@ If you are a total beginner, I would refer you to [the section below 👇](#an-i
 |  08   |   "     |  [Exercise: Mutual Information:Part 4](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit)       | Rank the features of the *Ames Housing* dataset and choose your first set of features to start developing. |[The exercise](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit) | "|
 |  09   |   TensorFlow and Keras - Quick StartGuide     |  TensorFlow-and-Keras:PartA      | Learn about TensorFlow |[The lesson](https://en.wikipedia.org/wiki/TensorFlow) |  **Wikipedia**  |
 |  10   |   TensorFlow and Keras - Quick StartGuide     |  TensorFlow-and-Keras:PartB      | Learn about Keras |[The lesson](https://en.wikipedia.org/wiki/Keras) |  **Wikipedia**  |
- | 11   |   TensorFlow and Keras - Quick StartGuide     |  [TensorFlow-and-Keras:Part1]()       | Learn about Keras |[The lesson]() |  [YaeUG](https://github.com/gabayae)  |
-  | 12   |   TensorFlow and Keras - Quick StartGuide    |  [TensorFlow-and-Keras:Part2]()       | Learn about Keras |[The lesson]() |  " |
+ | 11   |   TensorFlow and Keras - Quick StartGuide     |  [Introduction to Tensors:Part1]()       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/tensor) |  [YaeUG](https://github.com/gabayae)  |
+  | 12   |   TensorFlow and Keras - Quick StartGuide    |  [Introduction to Tensors:Part2]()       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/tensor) |  " |
+  | 13   |   TensorFlow and Keras - Quick StartGuide    |  [Introduction to Tensors:Part3]()       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/tensor) |  " |
+  | 14   |   TensorFlow and Keras - Quick StartGuide    |  [Introduction to Tensors:Part4]()       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/tensor) |  " |
+  | 15   |   TensorFlow and Keras - Quick StartGuide    |  [Introduction to Tensors:Part5]()       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/tensor) |  " |
+  | 16   |   TensorFlow and Keras - Quick StartGuide    |  [Introduction to Tensors:Part6]()       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/tensor) |  " |
+  | 17   |   TensorFlow and Keras - Quick StartGuide    |  [Introduction to Tensors:Part7]()       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/tensor) |  " |
 
 
 
