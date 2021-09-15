@@ -50,8 +50,10 @@ In this parallel reading, I provide some material for beginners into `Machine Le
 
 I assume that the readers are familiar with the basics of the [Python](https://www.python.org/) programming language. If this is not the case, kidly refer to this extensive [AIMS Python's documentation](https://python.aims.ac.za/) which is a material I have prepared with some colleagues. 
 
+`=============================================================`
 
-## Numpy
+
+## 1. Numpy
 
 - [`Day 1: Numpy : A comprehensive guide: Part1`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day01_Numpy_Part1.ipynb).
 
@@ -70,9 +72,10 @@ I assume that the readers are familiar with the basics of the [Python](https://w
 - [`Day 5: Numpy : A comprehensive guide: Final`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day05_Numpy_Part5_Final.ipynb
 ). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day05_Numpy_Part5_Final.ipynb).
 
+`=============================================================`
 
 
-## Matplotlib
+## 2. Matplotlib
 - [`Day 6: Matplotlib : A comprehensive guide: Part1`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day06_Matplotlib_Part1.ipynb). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day06_Matplotlib_Part1.ipynb).
 - [`Day 7: Matplotlib : A comprehensive guide: Part2`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day07_Matplotlib_Part2.ipynb
 ). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day07_Matplotlib_Part2.ipynb).
