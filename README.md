@@ -79,6 +79,9 @@ I assume that the readers are familiar with the basics of the [Python](https://w
 - [`Day 6: Matplotlib : A comprehensive guide: Part1`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day06_Matplotlib_Part1.ipynb). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day06_Matplotlib_Part1.ipynb).
 - [`Day 7: Matplotlib : A comprehensive guide: Part2`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day07_Matplotlib_Part2.ipynb
 ). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day07_Matplotlib_Part2.ipynb).
+- [`Day 8: Matplotlib : A comprehensive guide: Part3`](https://github.com/gabayae/33-Days-of-Parallel-Reading/blob/main/Day08_Matplotlib_Part3.ipynb
+). Get an interactive version you can play with [`here`](https://colab.research.google.com/github/gabayae/33-Days-of-Parallel-Reading/blob/main/Day08_Matplotlib_Part3.ipynb).
+
 
  
 
