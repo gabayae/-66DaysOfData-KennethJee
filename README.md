@@ -25,13 +25,13 @@ If you are a total beginner, I would refer you to [the section below 👇](#an-i
 |  08   |   "     |  [Exercise: Mutual Information:Part 4](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit)       | Rank the features of the *Ames Housing* dataset and choose your first set of features to start developing. |[The exercise](https://www.kaggle.com/yaeulrichgaba/exercise-mutual-information/edit) | "|
 |  09   |   TensorFlow and Keras - Quick StartGuide     |  TensorFlow-and-Keras:PartA      | Learn about TensorFlow |[The lesson](https://en.wikipedia.org/wiki/TensorFlow) |  **Wikipedia**  |
 |  10   |   TensorFlow and Keras - Quick StartGuide     |  TensorFlow-and-Keras:PartB      | Learn about Keras |[The lesson](https://en.wikipedia.org/wiki/Keras) |  **Wikipedia**  |
- | 11   |   Eager execution     |  [Setup and basic usage](https://www.tensorflow.org/guide/eager#setup_and_basic_usage)       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/eager) |  [YaeUG](https://github.com/gabayae)  |
-  | 12   |  Eager execution    |  [Dynamic control flow](https://www.tensorflow.org/guide/eager#dynamic_control_flow)       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/eager) |  " |
-  | 13   |   Eager execution    |  [Eager training-Computing gradients](https://www.tensorflow.org/guide/eager#computing_gradients)       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/eager) |  " |
-  | 14   |   Eager execution    |  [Eager training-Train a model](https://www.tensorflow.org/guide/eager#train_a_model)       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/eager) |  " |
-  | 15   |   Eager execution   |  [Eager training-Variables and optimizers](https://www.tensorflow.org/guide/eager#variables_and_optimizers)       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/eager) |  " |
-  | 16   |   Eager execution    |  [Eager training-Object-based saving](https://www.tensorflow.org/guide/eager#object-based_saving)       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/eager) |  " |
-  | 17   |   Eager execution    |  [Eager training-Object-oriented metrics](https://www.tensorflow.org/guide/eager#object-oriented_metrics)       | Learn about Keras |[The lesson](https://www.tensorflow.org/guide/eager) |  " |
+ | 11   |   [Eager execution](https://www.tensorflow.org/guide/eager)     |  [Setup and basic usage](https://www.tensorflow.org/guide/eager#setup_and_basic_usage)       | Learn about the imperative programming environment that evaluates operations immediately, without building graphs |[The lesson](https://www.tensorflow.org/guide/eager) |  [YaeUG](https://github.com/gabayae)  |
+  | 12   |  "    |  [Dynamic control flow](https://www.tensorflow.org/guide/eager#dynamic_control_flow)       | " |[The lesson](https://www.tensorflow.org/guide/eager#dynamic_control_flow) |  " |
+  | 13   |   "    |  [Eager training-Computing gradients](https://www.tensorflow.org/guide/eager#computing_gradients)       | " |[The lesson](https://www.tensorflow.org/guide/eager#computing_gradients) |  " |
+  | 14   |   "    |  [Eager training-Train a model](https://www.tensorflow.org/guide/eager#train_a_model)       | " |[The lesson](https://www.tensorflow.org/guide/eager#train_a_model) |  " |
+  | 15   |   "   |  [Eager training-Variables and optimizers](https://www.tensorflow.org/guide/eager#variables_and_optimizers)       | " |[The lesson](https://www.tensorflow.org/guide/eager#variables_and_optimizers) |  " |
+  | 16   |   "    |  [Eager training-Object-based saving](https://www.tensorflow.org/guide/eager#object-based_saving)       | " |[The lesson](https://www.tensorflow.org/guide/eager#object-based_saving) |  " |
+  | 17   |   "    |  [Eager training-Object-oriented metrics](https://www.tensorflow.org/guide/eager#object-oriented_metrics)       | " |[The lesson](https://www.tensorflow.org/guide/eager#object-oriented_metrics) |  " |
 
 
 
